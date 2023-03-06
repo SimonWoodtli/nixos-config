@@ -4,5 +4,5 @@ Here's a basic flake to ease a NixOS install. For Install Instruction checkout m
 
 Related:
 
-* [20230303072940](/20230303072940/) NixOS install
-* [20230304205635](/20230304205635/) NixOS cheatsheet
+* [20230303072940](https://github.com/SimonWoodtli/zet/tree/main/20230303072940) NixOS install
+* [20230304205635](https://github.com/SimonWoodtli/zet/tree/main/20230304205635) NixOS cheatsheet
