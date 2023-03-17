@@ -41,6 +41,8 @@ in
     };
     stateVersion = "22.11";
   };
+# XDG Compliant
+  use-xdg-base-directories = true
 
 ## 
   nix = {     # Nix Package Manager settings
